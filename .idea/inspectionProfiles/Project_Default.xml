@@ -1,0 +1,62 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="3.10" />
+            <item index="1" class="java.lang.String" itemvalue="3.11" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="23">
+            <item index="0" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="1" class="java.lang.String" itemvalue="tensorflow-estimator" />
+            <item index="2" class="java.lang.String" itemvalue="tensorboard" />
+            <item index="3" class="java.lang.String" itemvalue="numpy" />
+            <item index="4" class="java.lang.String" itemvalue="cv2" />
+            <item index="5" class="java.lang.String" itemvalue="sphinx-autodoc-future-annotations" />
+            <item index="6" class="java.lang.String" itemvalue="pytuna" />
+            <item index="7" class="java.lang.String" itemvalue="pythonnet" />
+            <item index="8" class="java.lang.String" itemvalue="scipy" />
+            <item index="9" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="10" class="java.lang.String" itemvalue="opencv-python-headless" />
+            <item index="11" class="java.lang.String" itemvalue="Pillow" />
+            <item index="12" class="java.lang.String" itemvalue="opencv-contrib-python-headless" />
+            <item index="13" class="java.lang.String" itemvalue="tqdm" />
+            <item index="14" class="java.lang.String" itemvalue="numba" />
+            <item index="15" class="java.lang.String" itemvalue="pillow-avif-plugin" />
+            <item index="16" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="17" class="java.lang.String" itemvalue="sphinx" />
+            <item index="18" class="java.lang.String" itemvalue="sphinx_autodoc_typehints" />
+            <item index="19" class="java.lang.String" itemvalue="opencv-contrib-python" />
+            <item index="20" class="java.lang.String" itemvalue="sphinx_rtd_theme" />
+            <item index="21" class="java.lang.String" itemvalue="myst_parser" />
+            <item index="22" class="java.lang.String" itemvalue="object-detection" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tensorflow.*" />
+          <option value="bool.astype" />
+          <option value="bool.value_counts" />
+          <option value="d06_test.descomp.aa.eeye_decrypter" />
+          <option value="d06_test.decrypter.decrypter.eeye_decrypter" />
+          <option value="dict.__getitem__" />
+          <option value="image_data" />
+          <option value="size" />
+          <option value="segment" />
+          <option value="cv2.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
